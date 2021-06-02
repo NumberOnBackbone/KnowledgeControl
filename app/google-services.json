@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "363203399641",
+    "firebase_url": "https://student-knowledge-control.firebaseio.com",
+    "project_id": "student-knowledge-control",
+    "storage_bucket": "student-knowledge-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363203399641:android:44486a74d8606f4eeb93c8",
+        "android_client_info": {
+          "package_name": "com.example.studentknowledgecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363203399641-04bjjl3h8cn5td9cev3ej0fetn295fs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRppPPeoAsGlwkcIRT4hLxIv6XlSaPyok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363203399641-04bjjl3h8cn5td9cev3ej0fetn295fs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363203399641:android:2f4bf80408bf025eeb93c8",
+        "android_client_info": {
+          "package_name": "ru.unidubna.studentkc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363203399641-l06bl4uuc0ch46qrp0i5mtg6ake31n79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.unidubna.studentkc",
+            "certificate_hash": "bc184d9afc776d6620ebf79b879be6e9c4657f05"
+          }
+        },
+        {
+          "client_id": "363203399641-04bjjl3h8cn5td9cev3ej0fetn295fs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRppPPeoAsGlwkcIRT4hLxIv6XlSaPyok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363203399641-04bjjl3h8cn5td9cev3ej0fetn295fs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
